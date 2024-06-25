@@ -2,3 +2,4 @@
 - Litre
 - Espino
 - Quillay
+- Boldo
