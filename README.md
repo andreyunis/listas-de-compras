@@ -12,6 +12,6 @@ Este es un proyecto de una lista de compras que se puede utilizar para llevar un
 
 - Andrea  
 - Victor  
-- Gonzalo  
+- Gonzalo  L
 - Juan  
 - Boris  
