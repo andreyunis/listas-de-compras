@@ -8,4 +8,9 @@ Este es un proyecto de una lista de compras que se puede utilizar para llevar un
 
 - Pan 1kg
 
-
+Integrantes:
+Andrea
+Victor
+Gonzalo
+Juan
+Boris
